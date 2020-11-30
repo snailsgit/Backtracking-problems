@@ -1,4 +1,4 @@
-/*💚💚💚 ITS A SLOW PROCESS BUT QUITING WONT SPEED IT UP 💚💚💚*/
+/*💚💚💚💚💚💚*/
 
 #include <bits/stdc++.h>
 using namespace std;
